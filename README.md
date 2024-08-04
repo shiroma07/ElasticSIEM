@@ -29,3 +29,8 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <p align="center">Simple Architecture of ELK Stack
  <br />
  <br />
+    Create account in Elastic and login to Elastic Cloud console, then navigate to "Integrations" under "Management" tab
+    <img src="https://github.com/user-attachments/assets/e190467d-bc8e-4640-8d98-6f521036414b" alt="Project Overview"/>
+    Choose Elastic Defend
+    <img src="https://github.com/user-attachments/assets/e190467d-bc8e-4640-8d98-6f521036414b" alt="Project Overview"/>
+    Install Windows 10 Pro in Virtual Box, and open
