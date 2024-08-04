@@ -19,11 +19,11 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
 <h2>Lab walk-through:</h2>
  <strong> Project Overview: </strong><br />
    <br />
-   This project focusing on using Elastic Stack which consists of three key components:<br />
-   Elasticsearch: A powerful search engine and analytics platform.<br />
-   Logstash: A versatile data processing pipeline.<br />
-   Kibana: A dynamic data visualization tool.<br />
+   This project focusing on using three key components of Elastic Stack:-<br />
+   <strong>Elasticsearch:</strong> A powerful search engine and analytics platform.<br />
+   <strong>Logstash:</strong> A versatile data processing pipeline.<br />
+   <strong>Kibana:</strong> A dynamic data visualization tool.<br />
  <br />
-   <img src=/>
+   <img src="https://github.com/user-attachments/assets/822adcbc-e42a-45b2-8e8b-50755b18ab22" alt="Project Overview"/>
  <br />
  <br />
