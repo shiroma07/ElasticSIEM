@@ -24,6 +24,6 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <strong>Logstash:</strong> A versatile data processing pipeline.<br />
    <strong>Kibana:</strong> A dynamic data visualization tool.<br />
  <br />
-   <img src="https://github.com/user-attachments/assets/822adcbc-e42a-45b2-8e8b-50755b18ab22" alt="Project Overview"/>
+   <img src="https://github.com/user-attachments/assets/1744ca96-0707-4b47-b01a-90f3c99ba065" alt="Project Overview"/>
  <br />
  <br />
