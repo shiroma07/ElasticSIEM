@@ -17,7 +17,13 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
 - <b>Windows 10 Pro (22H2)</b> 
 
 <h2>Lab walk-through:</h2>
-<p align="center" width="100%">
  <strong> Project Overview: </strong><br />
- 
+   <br />
+   This project focusing on using Elastic Stack which consists of three key components:<br />
+   Elasticsearch: A powerful search engine and analytics platform.<br />
+   Logstash: A versatile data processing pipeline.<br />
+   Kibana: A dynamic data visualization tool.<br />
+ <br />
+   <img src=/>
+ <br />
  <br />
