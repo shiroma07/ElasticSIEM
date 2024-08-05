@@ -20,6 +20,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
  <strong> Project Overview: </strong><br />
    <br />
    This project focusing on using a couple of key components of Elastic Stack:-<br />
+   <br />
    <strong>Logs:</strong> Windows logs that need to be analyzed are identified<br />
    <strong>Logstash:</strong> Collect logs and events data. It even parses and transforms data<br />
    <strong>Elastic Search:</strong> The transformed data from Logstash is store, search, and indexed<br />
@@ -29,8 +30,12 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <p align="center">Simple Architecture of ELK Stack
  <br />
  <br />
-    Create account in Elastic and login to Elastic Cloud console, then navigate to "Integrations" under "Management" tab
+    First, create account in Elastic and login to Elastic Cloud console, then navigate to "Integrations" under "Management" tab
     <img src="https://github.com/user-attachments/assets/e190467d-bc8e-4640-8d98-6f521036414b" alt="Project Overview"/>
+  <br />
+  <br />
     Choose Elastic Defend
-    <img src="https://github.com/user-attachments/assets/e190467d-bc8e-4640-8d98-6f521036414b" alt="Project Overview"/>
+    <img src="https://github.com/user-attachments/assets/7bb6d632-819f-44d5-89f6-178a7317070c" alt="Project Overview"/>
+    
+
     Install Windows 10 Pro in Virtual Box, and open
