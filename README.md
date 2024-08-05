@@ -73,7 +73,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/39889fbd-e4e6-4ee7-9cd0-bb947c18e6f3" alt="Sysmon Operational" />
   <br />
   <br />
-   Return back to virtual machine, install Nmap and do scan to create logs
+   Return back to virtual machine, install Nmap and run scan to create logs
    <img src="https://github.com/user-attachments/assets/bceea907-8ff8-4929-925d-76e5c809019a" alt="Nmap Scan" />
   <br />
   <br />
