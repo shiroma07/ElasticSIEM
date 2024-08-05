@@ -77,7 +77,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/bceea907-8ff8-4929-925d-76e5c809019a" alt="Nmap Scan" />
   <br />
   <br />
-   Go to "Logs" tab under "Observability".  In the search bar under “Stream” type in KQL command below to display the Nmap events created on your Windows VM
+   In Elastic web portal, go to "Logs" tab under "Observability".  In the search bar under “Stream”, type in KQL command below to display the Nmap events created by Windows VM
     
     process.args: "nmap"
 
