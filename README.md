@@ -117,7 +117,7 @@ This project focuses on setting up an Elastic Stack Security Information and Eve
   <br />
   <br />
    Click on "Detection rules (SIEM)"
-   <img width="80%" height="90%" src="https://github.com/user-attachments/assets/c921e51f-fd28-4e9c-b375-83fed366f094" alt="Detection Rules" />
+   <img width="80%" height="90%" src="https://github.com/user-attachments/assets/2a58538e-af16-4104-85df-3a26a66441c8" alt="Detection Rules" />
   <br />
   <br />
    Create a new rule by clicking the button in the top right corner
