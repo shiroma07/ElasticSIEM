@@ -23,9 +23,9 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    This project focusing on using a couple of key components of Elastic Stack:-<br />
   <br />
    <strong>Logs:</strong> Windows logs that need to be analyzed are identified<br />
-   <strong>Logstash:</strong> Collect logs and events data. It even parses and transforms data<br />
-   <strong>Elastic Search:</strong> The transformed data from Logstash is store, search, and indexed<br />
-   <strong>Kibana:</strong> Kibana uses Elasticsearch DB to explore, visualize, and share<br />
+   <strong>Logstash:</strong> Collects logs and event data. It also parses and transforms the data<br />
+   <strong>Elastic Search:</strong> The transformed data from Logstash is stored, searched, and indexed in Elastic Search<br />
+   <strong>Kibana:</strong> Kibana uses the Elasticsearch database to explore, visualize, and share the data<br />
   <br />
    <img src="https://github.com/user-attachments/assets/1744ca96-0707-4b47-b01a-90f3c99ba065" alt="Project Overview"/>
 <p align="center">Simple Architecture of ELK Stack
