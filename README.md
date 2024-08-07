@@ -20,12 +20,12 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
 <h2>Lab walk-through:</h2>
  <strong> Project Overview: </strong><br />
   <br />
-   This project focusing on using a couple of key components of Elastic Stack:-<br />
+   This project focusing on using a couple of key components from Elastic Stack:-<br />
   <br />
-   <strong>Logs:</strong> Windows logs that need to be analyzed are identified<br />
-   <strong>Logstash:</strong> Collects logs and event data. It also parses and transforms the data<br />
+   <strong>Logs:</strong> Identify the Windows logs that need to be analyzed<br />
+   <strong>Logstash:</strong> Collects logs and event data, and then parses and transforms the data<br />
    <strong>Elastic Search:</strong> The transformed data from Logstash is stored, searched, and indexed in Elastic Search<br />
-   <strong>Kibana:</strong> Kibana uses the Elasticsearch database to explore, visualize, and share the data<br />
+   <strong>Kibana:</strong> Uses the data in Elastic search database to explore, visualize, and share the data<br />
   <br />
    <img src="https://github.com/user-attachments/assets/1744ca96-0707-4b47-b01a-90f3c99ba065" alt="Project Overview"/>
    <p align="center">Simple Architecture of ELK Stack
@@ -104,7 +104,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
    Filter the data using KQL syntax or by adding the field names on the left tab. The dashboards provide a real-time view of critical metrics and events, allowing for immediate detection of issues or security threats.
-   Visualization helps in identifying patterns, trends, and anomalies that might not be apparent in raw data.
+   Visualization helps in identifying patterns, trends, and anomalies that might not be apparent in raw data
    <img src="https://github.com/user-attachments/assets/03f2165e-9bc7-454f-b980-fd57fb31b02b" alt="Visualization" />
   <br />
   <br />
@@ -130,7 +130,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Insert the alert name and set the severity or risk score as appropriate
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/77590232-a45f-43e0-bda9-1df94d0fe26a" alt="Alert name" />
+    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/382ed3fb-d94f-44f1-99d4-cb2316c88595" alt="Alert name" />
   <br />
   <br />
     Set the schedule for the rule to run periodically
@@ -143,8 +143,8 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Example of an alert generated in the portal and sent via email for timely detection of issues
-    <img width="140%" height="140%"src="https://github.com/user-attachments/assets/1bc3f02b-e583-4d86-b7aa-602ee23f285c" alt="Example alert" />
-    <img src="https://github.com/user-attachments/assets/e38a497f-1c1a-4512-9fff-cd0e06ebd65a" alt="Email" />
+    <img width="140%" height="140%"src="https://github.com/user-attachments/assets/9da5301b-c2f6-400a-9829-3ad9f1f41210" alt="Example alert" />
+    <img src="https://github.com/user-attachments/assets/be64aefb-deaa-4dcb-a706-502042cdebda" alt="Email" />
   <br />
   <br />
   <br />
