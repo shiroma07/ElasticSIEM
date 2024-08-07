@@ -10,6 +10,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
 
 - <b>VirtualBox</b>
 - <b>Elastic Web Portal</b>
+- <b>Nmap</b>
 
 <h2>Environments Used </h2>
 
