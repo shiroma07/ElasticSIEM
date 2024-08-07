@@ -31,7 +31,9 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
 <p align="center">Simple Architecture of ELK Stack
   <br />
   <br />
-    First, create account in Elastic and log in to Elastic Cloud console. Then, navigate to the "Integrations" section under the "Management" tab
+    <b>Step 1: Create an Elastic account and add Elastic Agent to the Windows virtual machine</b>
+  <br />   
+    Create account in Elastic and log in to Elastic Cloud console. Then, navigate to the "Integrations" section under the "Management" tab
     <img width="90%" src="https://github.com/user-attachments/assets/e190467d-bc8e-4640-8d98-6f521036414b" alt="Integrations"/>
   <br />
   <br />
