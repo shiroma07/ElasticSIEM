@@ -51,7 +51,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Confirmed the enrollment agent has been enrolled and able to receive data from the Elastic web portal
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/5973a78b-894a-427e-b673-3764502cc2dd" alt="Agent Enrollment"/>
+    <img width="50%" height="50%" src="https://github.com/user-attachments/assets/5973a78b-894a-427e-b673-3764502cc2dd" alt="Agent Enrollment"/>
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/544c0e9c-fc67-4a94-aae4-3a9542726a22" alt="Windows Health" />
   <br />
   <br />
@@ -59,22 +59,22 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
 
     https://learn.microsoft.com/en-us/sysinternals/downloads/sysmon
   <br />
-    <img width="80%" src="https://github.com/user-attachments/assets/c3f6d04b-f33b-4ba7-8aa7-689b3a916511" alt="Install Sysmon" />
+    <img width="90%" src="https://github.com/user-attachments/assets/c3f6d04b-f33b-4ba7-8aa7-689b3a916511" alt="Install Sysmon" />
   <br />
   <br />
-    In order to collect the logs from Sysmon, we will need to add Windows integration in Agent Policy. Choose "Agent Policy 1", click "Add Integration" and search for "Windows"
+    <p align="center"> In order to collect the logs from Sysmon, we will need to add Windows integration in Agent Policy. Choose "Agent Policy 1", click "Add Integration" and search for "Windows"
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/eeef1d32-7967-4c24-9ce7-e9121c728ca1" alt="Agent Policy 1" />
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/600cac05-13c7-466e-aede-11109da1d274" alt="Add Integration" />
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/41c3e780-c8bb-4488-8cb5-cbaff6f6ae01" alt="Windows Integration" />
   <br />
   <br />
    Configure windows integration settings and make sure "Sysmon Operational" is turn on
-   <img width="80%" height="80%" src="https://github.com/user-attachments/assets/dc355c9b-fc33-4d57-9995-1aba538eeb83" alt="Configure Integration" />
-   <img width="80%" src="https://github.com/user-attachments/assets/39889fbd-e4e6-4ee7-9cd0-bb947c18e6f3" alt="Sysmon Operational" />
+   <img width="60%" height="60%" src="https://github.com/user-attachments/assets/dc355c9b-fc33-4d57-9995-1aba538eeb83" alt="Configure Integration" />
+   <img width="60%" src="https://github.com/user-attachments/assets/39889fbd-e4e6-4ee7-9cd0-bb947c18e6f3" alt="Sysmon Operational" />
   <br />
   <br />
    Return back to virtual machine, install Nmap and run scan to create some logs
-   <img width="80%" src="https://github.com/user-attachments/assets/bceea907-8ff8-4929-925d-76e5c809019a" alt="Nmap Scan" />
+   <img width="90%" src="https://github.com/user-attachments/assets/bceea907-8ff8-4929-925d-76e5c809019a" alt="Nmap Scan" />
   <br />
   <br />
    In Elastic web portal, go to "Logs" tab under "Observability".  In the search bar under “Stream”, type in KQL command below to display the Nmap events created by Windows VM
@@ -84,8 +84,8 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/50d579cb-09e7-4878-85df-b13b7b0eb2dd" alt="Nmap logs" />
   <br />
   <br />
-   To create a dashboard to visualize the events, click "Dashboards" and then "Create Visualization"
-   <img width="80%" src="https://github.com/user-attachments/assets/28300455-0aad-491f-9581-def212a5073c" alt="Dashboards" />
+   <p align="center"> To create a dashboard to visualize the events, click "Dashboards" and then "Create Visualization"
+   <img width="90%" src="https://github.com/user-attachments/assets/28300455-0aad-491f-9581-def212a5073c" alt="Dashboards" />
   <br />
   <br />
    Filter using KQL syntax or add the field names
@@ -93,7 +93,8 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
    To create alerts, go to Security > Rules
-   <img width="80%" height="50%" src="https://github.com/user-attachments/assets/e754f5b8-c8b1-42dc-b415-9e21c1145407" alt="Security Rules Tab" />
+  <br />
+   <img width="20%" height="20%" src="https://github.com/user-attachments/assets/e754f5b8-c8b1-42dc-b415-9e21c1145407" alt="Security Rules Tab" />
   <br />
   <br />
    Click 'Detection rules (SIEM)'
@@ -105,18 +106,19 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Choose custom query and add KQL query
-    <img width="65%" height="65%" src="https://github.com/user-attachments/assets/9fa8d039-1112-416f-b2bf-3e4fc206ecb1" alt="Custom query" />
+  <br />
+    <img width="70%" height="65%" src="https://github.com/user-attachments/assets/9fa8d039-1112-416f-b2bf-3e4fc206ecb1" alt="Custom query" />
   <br />
   <br />
-    Insert alert name and settings
+    Insert alert name and set the severity/risk score
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/77590232-a45f-43e0-bda9-1df94d0fe26a" alt="Alert name" />
   <br />
   <br />
-    Set the schedule rule
-    <img width="60%" height="60%" src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
+    Set the schedule rule to run periodically
+    <img width="70%" height="70%" src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
   <br />
   <br />
-    Set the rule actions if the alert generated
+    Set the rule actions if the alert generated so that you can alert the analysts
     <img width="70%" height="70%" src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
   <br />
   <br />
