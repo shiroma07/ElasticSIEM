@@ -139,6 +139,7 @@ This project focuses on setting up an Elastic Stack Security Information and Eve
   <br />
   <br />
     Configure the rule actions to specify how alerts should be handled if triggered, ensuring that notifications are sent to the analysts
+  <br />
     <img width="70%" height="70%" src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
   <br />
   <br />
