@@ -3,7 +3,7 @@
 <h2>Description</h2>
 Elastic SIEM provides a powerful and scalable solution for collecting and analyzing logs from Sysmon (System Monitor) across multiple endpoints, providing a unified view of system activities accross multiple resources. 
 By integrating Sysmon with Elastic SIEM, organizations can gain enhanced visibility into system activities, enabling real-time detection and response to security threats.
-This project focus on setting up Elastic Stack Security Information and Event Management (SIEM) home lab using the Elastic Web portal and a Windows virtual machine (VM) to generate and analyze security events, set up Elastic agents for log forwarding, create dashboards, and establish security alerts.
+This project focuses on setting up an Elastic Stack Security Information and Event Management (SIEM) home lab using the Elastic Web portal and a Windows virtual machine (VM). The setup includes generating and analyzing security events, configuring Elastic agents for log forwarding, creating dashboards, and establishing security alerts.
 <br />
 
 <h2>Utilities Used</h2>
