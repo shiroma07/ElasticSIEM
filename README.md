@@ -63,9 +63,9 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     <p align="center"> In order to collect the logs from Sysmon, we will need to add Windows integration in Agent Policy. Choose "Agent Policy 1", click "Add Integration" and search for "Windows"
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/eeef1d32-7967-4c24-9ce7-e9121c728ca1" alt="Agent Policy 1" />
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/600cac05-13c7-466e-aede-11109da1d274" alt="Add Integration" />
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/41c3e780-c8bb-4488-8cb5-cbaff6f6ae01" alt="Windows Integration" />
+    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/d16963f8-949b-4670-9d9f-10e2f7050aac" alt="Agent Policy 1" />
+    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/651c4e53-5421-4514-8977-41d593b2f48e" alt="Add Integration" />
+    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/73ffdc52-bb4a-4f96-9b23-15fef347c98f" alt="Windows Integration" />
   <br />
   <br />
    Configure windows integration settings and make sure "Sysmon Operational" is turn on
@@ -84,7 +84,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/50d579cb-09e7-4878-85df-b13b7b0eb2dd" alt="Nmap logs" />
   <br />
   <br />
-   <p align="center"> To create a dashboard to visualize the events, click "Dashboards" and then "Create Visualization"
+   <p align="center">To create a dashboard to visualize the events, click "Dashboards" and then "Create Visualization"
    <img width="90%" src="https://github.com/user-attachments/assets/28300455-0aad-491f-9581-def212a5073c" alt="Dashboards" />
   <br />
   <br />
@@ -101,7 +101,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img width="80%" height="90%" src="https://github.com/user-attachments/assets/c921e51f-fd28-4e9c-b375-83fed366f094" alt="Detection Rules" />
   <br />
   <br />
-   Create new rule from the button on top right corner
+   Create new rule from button on the top right corner
    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/f6134c26-a7b4-4cf8-b42e-b4c22d87ed0b" alt="New rule" />
   <br />
   <br />
@@ -115,6 +115,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Set the schedule rule to run periodically
+  <br />
     <img width="70%" height="70%" src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
   <br />
   <br />
@@ -122,8 +123,9 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
     <img width="70%" height="70%" src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
   <br />
   <br />
-    Example alert generated
-    <img src="https://github.com/user-attachments/assets/c6785869-f34a-4b73-bdff-a263eaceefde" alt="Example alert" />
+    Example alert generated in the portal and sent to the email
+    <img width="120%" height="120%"src="https://github.com/user-attachments/assets/c6785869-f34a-4b73-bdff-a263eaceefde" alt="Example alert" />
+    <img src="https://github.com/user-attachments/assets/9a99a34d-a744-415f-8d2c-89ff5c8bb072" alt="Email" />
   <br />
   <br />
   <br />
