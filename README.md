@@ -27,7 +27,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <strong>Kibana:</strong> Kibana uses Elasticsearch DB to explore, visualize, and share<br />
   <br />
    <img src="https://github.com/user-attachments/assets/1744ca96-0707-4b47-b01a-90f3c99ba065" alt="Project Overview"/>
-   <p align="center">Simple Architecture of ELK Stack
+<p align="center">Simple Architecture of ELK Stack
   <br />
   <br />
     First, create account in Elastic and login to Elastic Cloud console, then navigate to "Integrations" under "Management" tab
@@ -89,11 +89,11 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
    Filter using KQL syntax or add the field names
-   <img src="https://github.com/user-attachments/assets/fe65f27a-8eda-4549-9048-7280f324cd76" alt="Visualization" />
+   <img src="https://github.com/user-attachments/assets/0c94b6e0-548f-4f96-9c19-8c5be3cd6299" alt="Visualization" />
   <br />
   <br />
    To create alerts, go to Security > Rules
-   <img height="70%" src="https://github.com/user-attachments/assets/e754f5b8-c8b1-42dc-b415-9e21c1145407" alt="Security Rules Tab" />
+   <img width="80%" height="50%" src="https://github.com/user-attachments/assets/e754f5b8-c8b1-42dc-b415-9e21c1145407" alt="Security Rules Tab" />
   <br />
   <br />
    Click 'Detection rules (SIEM)'
@@ -105,7 +105,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Choose custom query and add KQL query
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/9fa8d039-1112-416f-b2bf-3e4fc206ecb1" alt="Custom query" />
+    <img width="65%" height="65%" src="https://github.com/user-attachments/assets/9fa8d039-1112-416f-b2bf-3e4fc206ecb1" alt="Custom query" />
   <br />
   <br />
     Insert alert name and settings
@@ -113,11 +113,11 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Set the schedule rule
-    <img src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
+    <img width="60%" height="60%" src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
   <br />
   <br />
     Set the rule actions if the alert generated
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
+    <img width="70%" height="70%" src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
   <br />
   <br />
     Example alert generated
@@ -126,4 +126,4 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
   <br />
-
+</p>
