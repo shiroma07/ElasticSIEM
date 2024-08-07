@@ -78,6 +78,7 @@ This project focuses on setting up an Elastic Stack Security Information and Eve
   <br />
   <br />
    Configure the Windows integration settings and ensure that the "Sysmon Operational" option is turned on
+  <br />
    <img width="60%" height="60%" src="https://github.com/user-attachments/assets/dc355c9b-fc33-4d57-9995-1aba538eeb83" alt="Configure Integration" />
    <img width="60%" src="https://github.com/user-attachments/assets/39889fbd-e4e6-4ee7-9cd0-bb947c18e6f3" alt="Sysmon Operational" />
   <br />
