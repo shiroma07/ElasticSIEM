@@ -104,8 +104,28 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/c921e51f-fd28-4e9c-b375-83fed366f094" alt="Detection Rules" />
   <br />
   <br />
-   
+   Create new rule from the button on top right corner
+   <img src="https://github.com/user-attachments/assets/f6134c26-a7b4-4cf8-b42e-b4c22d87ed0b" alt="New rule" />
   <br />
   <br />
+    Choose custom query and add KQL query
+    <img src="https://github.com/user-attachments/assets/9fa8d039-1112-416f-b2bf-3e4fc206ecb1" alt="Custom query" />
   <br />
   <br />
+    Insert alert name and settings
+    <img src="https://github.com/user-attachments/assets/77590232-a45f-43e0-bda9-1df94d0fe26a" alt="Alert name" />
+  <br />
+  <br />
+    Set the schedule rule
+    <img src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
+  <br />
+  <br />
+    Set the rule actions if the alert generated
+    <img src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
+  <br />
+  <br />
+    Example alert generated
+    <img src="https://github.com/user-attachments/assets/c6785869-f34a-4b73-bdff-a263eaceefde" alt="Example alert" />
+  <br />
+  <br />
+
