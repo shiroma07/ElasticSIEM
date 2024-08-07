@@ -102,29 +102,29 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img width="80%" height="90%" src="https://github.com/user-attachments/assets/c921e51f-fd28-4e9c-b375-83fed366f094" alt="Detection Rules" />
   <br />
   <br />
-   Create new rule from button on the top right corner
+   Create a new rule by clicking the button in the top right corner
    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/f6134c26-a7b4-4cf8-b42e-b4c22d87ed0b" alt="New rule" />
   <br />
   <br />
-    Choose custom query and add KQL query
+    Choose "Custom Query" and add your KQL query
   <br />
     <img width="70%" height="65%" src="https://github.com/user-attachments/assets/9fa8d039-1112-416f-b2bf-3e4fc206ecb1" alt="Custom query" />
   <br />
   <br />
-    Insert alert name and set the severity/risk score
+    Insert the alert name and set the severity or risk score as appropriate
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/77590232-a45f-43e0-bda9-1df94d0fe26a" alt="Alert name" />
   <br />
   <br />
-    Set the schedule rule to run periodically
+    Set the schedule for the rule to run periodically
   <br />
     <img width="70%" height="70%" src="https://github.com/user-attachments/assets/57fe67f8-072b-42dd-936d-2ae7e9fca41d" alt="Schedule rule" />
   <br />
   <br />
-    Set the rule actions if the alert generated so that you can alert the analysts
+    Configure the rule actions to specify how alerts should be handled if triggered, ensuring that notifications are sent to the analysts
     <img width="70%" height="70%" src="https://github.com/user-attachments/assets/ec24d6fa-f116-431d-a596-356711100354" alt="Rule actions" />
   <br />
   <br />
-    Example alert generated in the portal and sent to the email
+    Example of an alert generated in the portal and sent via email
     <img width="120%" height="120%"src="https://github.com/user-attachments/assets/c6785869-f34a-4b73-bdff-a263eaceefde" alt="Example alert" />
     <img src="https://github.com/user-attachments/assets/9a99a34d-a744-415f-8d2c-89ff5c8bb072" alt="Email" />
   <br />
