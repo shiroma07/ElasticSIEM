@@ -73,7 +73,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/39889fbd-e4e6-4ee7-9cd0-bb947c18e6f3" alt="Sysmon Operational" />
   <br />
   <br />
-   Return back to virtual machine, install Nmap and run scan to create logs
+   Return back to virtual machine, install Nmap and run scan to create some logs
    <img src="https://github.com/user-attachments/assets/bceea907-8ff8-4929-925d-76e5c809019a" alt="Nmap Scan" />
   <br />
   <br />
@@ -84,11 +84,27 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
    <img src="https://github.com/user-attachments/assets/50d579cb-09e7-4878-85df-b13b7b0eb2dd" alt="Nmap logs" />
   <br />
   <br />
-   Go to "Analytics" > "Discover" tab and change data views to "logs-*". We can filter the logs received by using KQL syntax or user interface
+   You can also check other logs by going to "Analytics" > "Discover" tab and change data views to "logs-*". We can filter the logs received by using KQL syntax or user interface to view the events.
    <img src="https://github.com/user-attachments/assets/af20b93d-492c-45c0-ad36-2252fa9e3f0e" alt="Discover" />
+  <br />
+  <br />
+   To create a dashboard to visualize the events, click "Dashboards" and then "Create Visualization"
+   <img src="https://github.com/user-attachments/assets/28300455-0aad-491f-9581-def212a5073c" alt="Dashboards" />
+  <br />
+  <br />
+   Filter using KQL syntax or add the field names
+   <img src="https://github.com/user-attachments/assets/fe65f27a-8eda-4549-9048-7280f324cd76" alt="Visualization" />
+  <br />
+  <br />
+   To create alerts, go to Security > Rules
+   <img src="https://github.com/user-attachments/assets/e754f5b8-c8b1-42dc-b415-9e21c1145407" alt="Security Rules Tab" />
+  <br />
+  <br />
+   Click 'Detection rules (SIEM)'
+   <img src="https://github.com/user-attachments/assets/c921e51f-fd28-4e9c-b375-83fed366f094" alt="Detection Rules" />
+  <br />
+  <br />
    
-
-
   <br />
   <br />
   <br />
