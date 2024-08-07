@@ -121,7 +121,7 @@ This project focus on setting up Elastic Stack Security Information and Event Ma
   <br />
   <br />
     Example alert generated
-    <img width="80%" height="80%" src="https://github.com/user-attachments/assets/c6785869-f34a-4b73-bdff-a263eaceefde" alt="Example alert" />
+    <img src="https://github.com/user-attachments/assets/c6785869-f34a-4b73-bdff-a263eaceefde" alt="Example alert" />
   <br />
   <br />
   <br />
