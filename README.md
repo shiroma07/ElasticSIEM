@@ -56,7 +56,7 @@ This project focuses on setting up an Elastic Stack Security Information and Eve
     <img width="85%" height="85%" src="https://github.com/user-attachments/assets/b4509fd1-cad8-4506-83d9-048348e28c92" alt="Install Elastic Agent"/>
   <br />
   <br />
-    Confirm that the Elastic Agent has been successfully enrolled and is able to receive data from the Elastic web portal
+    Confirm that the Elastic Agent has been successfully enrolled and is able to receive data from Elastic web portal
     <img width="50%" height="50%" src="https://github.com/user-attachments/assets/5973a78b-894a-427e-b673-3764502cc2dd" alt="Agent Enrollment"/>
     <img width="80%" height="80%" src="https://github.com/user-attachments/assets/544c0e9c-fc67-4a94-aae4-3a9542726a22" alt="Windows Health" />
   <br />
